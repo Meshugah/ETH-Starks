@@ -1,4 +1,5 @@
 pipeline {
+
 	stages {
 		stage('Application build') {
 			steps {
